@@ -1,0 +1,354 @@
+189b7e5  Taylen Anderson 
+s3925287@student.rmit.edu.au
+Mon, 15 Nov 2021 15:17:15 +1100
+Update to teamProfile and carreer plans 
+
+b5b4641  Taylen Anderson 
+s3925287@student.rmit.edu.au
+Sun, 14 Nov 2021 17:24:04 +1100
+Merge branch 'main' of https://github.com/rmitStockIT/stockIT/
+
+2142488  Taylen Anderson 
+s3925287@student.rmit.edu.au
+Sun, 14 Nov 2021 17:23:40 +1100
+Missing agendas uploaded.
+
+5da162c  Tetsu Watanabe 
+s3923443@student.rmit.edu.au
+Sun, 14 Nov 2021 07:44:09 +1000
+Signed-off-by: Tetsu Watanabe <s3923443@student.rmit.edu.au>
+
+d734e24  Tetsu Watanabe 
+s3923443@student.rmit.edu.au
+Fri, 12 Nov 2021 17:28:02 +1000
+Merge branch 'main' of https://github.com/rmitstockit/stockit
+
+a494e74  Ahmet Akgun 
+90659029+Ahmet Akgun@users.noreply.github.com
+Fri, 12 Nov 2021 16:49:19 +1100
+Add files via upload
+
+1259e68  Tetsu Watanabe 
+s3923443@student.rmit.edu.au
+Fri, 12 Nov 2021 15:08:55 +1000
+Merge branch 'main' of https://github.com/rmitstockit/stockit
+
+b9b1be3  Tetsu Watanabe 
+s3923443@student.rmit.edu.au
+Fri, 12 Nov 2021 15:08:40 +1000
+Signed-off-by: Tetsu Watanabe <s3923443@student.rmit.edu.au>
+
+738b42f  Timothy Prast 
+S3921214@student.rmit.edu.au
+Fri, 12 Nov 2021 10:39:20 +0800
+Doc push.
+
+ff07022  Timothy Prast 
+S3921214@student.rmit.edu.au
+Fri, 12 Nov 2021 09:42:13 +0800
+VO Push
+
+837aa29  Taylen Anderson 
+s3925287@student.rmit.edu.au
+Thu, 11 Nov 2021 22:07:59 +1100
+updated folder names to correct structure, Please continue to use camelcase.
+
+d5b6efe  Taylen Anderson 
+s3925287@student.rmit.edu.au
+Thu, 11 Nov 2021 21:51:53 +1100
+Uploaded Taylens Voice recording.
+
+bf2557d  Taylen Anderson 
+s3925287@student.rmit.edu.au
+Thu, 11 Nov 2021 21:45:18 +1100
+Merge branch 'main' of https://github.com/rmitStockIT/stockIT/
+
+1c763f6  Taylen Anderson 
+s3925287@student.rmit.edu.au
+Thu, 11 Nov 2021 21:44:43 +1100
+agenda new actions new 
+
+79c4704  Tetsu Watanabe 
+s3923443@student.rmit.edu.au
+Thu, 11 Nov 2021 20:00:40 +1000
+Merge branch 'master' of https://github.com/rmitstockit/stockit
+
+3de4816  Tetsu Watanabe 
+s3923443@student.rmit.edu.au
+Thu, 11 Nov 2021 19:27:32 +1000
+Merge branch 'main' of https://github.com/rmitstockit/stockit
+
+05699e9  Tetsu Watanabe 
+s3923443@student.rmit.edu.au
+Thu, 11 Nov 2021 19:27:13 +1000
+Signed-off-by: Tetsu Watanabe <s3923443@student.rmit.edu.au>
+
+4df87e1  Brandon McPherson 
+s3921902@student.rmit.edu.au
+Thu, 11 Nov 2021 19:19:03 +1000
+Voice recordings for video presentation recorded - Assessment 5 
+
+8ac56e6  Timothy Prast 
+S3921214@student.rmit.edu.au
+Thu, 11 Nov 2021 16:07:13 +0800
+Bulk document push
+
+e932627  Brandon McPherson 
+s3921902@student.rmit.edu.au
+Thu, 11 Nov 2021 18:00:27 +1000
+2nd draft - Group Process and Communication.
+
+1301346  Brandon McPherson 
+s3921902@student.rmit.edu.au
+Thu, 11 Nov 2021 17:31:45 +1000
+Merge branch 'main' of https://github.com/rmitStockIT/stockIT
+
+1993776  Ahmet Akgun 
+90659029+Ahmet Akgun@users.noreply.github.com
+Thu, 11 Nov 2021 17:52:34 +1100
+Add files via upload
+
+445f1fc  Brandon McPherson 
+s3921902@student.rmit.edu.au
+Thu, 11 Nov 2021 07:05:25 +1000
+Group Process and Communications - Project Description 
+
+b89ccaf  Brandon McPherson 
+s3921902@student.rmit.edu.au
+Thu, 11 Nov 2021 06:21:05 +1000
+Group Process for Team Profile work 
+
+c345fbd  Tetsu Watanabe 
+s3923443@student.rmit.edu.au
+Wed, 10 Nov 2021 17:38:27 +1000
+Merge branch 'main' of https://github.com/rmitstockit/stockit
+
+5db00c2  Tetsu Watanabe 
+s3923443@student.rmit.edu.au
+Wed, 10 Nov 2021 17:36:27 +1000
+Push scripts for recording purposes 
+
+acb5bc3  Taylen Anderson 
+s3925287@student.rmit.edu.au
+Tue, 9 Nov 2021 18:10:44 +1100
+Merge branch 'main' of https://github.com/rmitStockIT/stockIT/
+
+0158789  Taylen Anderson 
+s3925287@student.rmit.edu.au
+Tue, 9 Nov 2021 18:10:39 +1100
+Signed-off-by: Taylen Anderson <s3925287@student.rmit.edu.au>
+
+1289890  Hugo Hughes 
+S3923309@student.rmit.edu.au
+Tue, 9 Nov 2021 16:49:01 +1100
+Very nearly complete draft Salaries, Job Requirements need to be double checked Design needs to be updated
+
+8341e40  Timothy Prast 
+S3921214@student.rmit.edu.au
+Sun, 7 Nov 2021 17:01:29 +0800
+Document updates push
+
+fc7f074  Taylen Anderson 
+s3925287@student.rmit.edu.au
+Sun, 7 Nov 2021 16:45:53 +1100
+Merge branch 'master' of https://github.com/rmitStockIT/stockIT/
+
+ea1ab4d  Taylen Anderson 
+s3925287@student.rmit.edu.au
+Sun, 7 Nov 2021 16:44:42 +1100
+Signed-off-by: Taylen Anderson <s3925287@student.rmit.edu.au>
+
+48c4306  Brandon McPherson 
+s3921902@student.rmit.edu.au
+Sun, 7 Nov 2021 15:41:48 +1000
+3rd Draft of script - ready to be submitted 
+
+e51bd6a  Tetsu Watanabe 
+s3923443@student.rmit.edu.au
+Sun, 7 Nov 2021 15:27:18 +1000
+Upload draft video 
+
+0378684  Taylen Anderson 
+s3925287@student.rmit.edu.au
+Fri, 5 Nov 2021 20:49:09 +1100
+Adjusted script for myself(taylen) to be a bit more informercial
+
+a851d2a  Taylen Anderson 
+s3925287@student.rmit.edu.au
+Thu, 4 Nov 2021 22:39:30 +1100
+Fixed asasignment 3 index
+
+ebd53c8  Taylen Anderson 
+s3925287@student.rmit.edu.au
+Thu, 4 Nov 2021 22:32:27 +1100
+created new assignment 3 page
+
+8503827  Taylen Anderson 
+s3925287@student.rmit.edu.au
+Thu, 4 Nov 2021 22:29:02 +1100
+fixed links
+
+7079ccc  Taylen Anderson 
+s3925287@student.rmit.edu.au
+Thu, 4 Nov 2021 22:27:11 +1100
+assignment3 page added
+
+bb1ff4e  Taylen Anderson 
+s3925287@student.rmit.edu.au
+Thu, 4 Nov 2021 22:16:39 +1100
+Updqated site font
+
+f7f8dda  Taylen Anderson 
+s3925287@student.rmit.edu.au
+Thu, 4 Nov 2021 21:40:44 +1100
+added agenda6
+
+6a2c895  Taylen Anderson 
+s3925287@student.rmit.edu.au
+Wed, 3 Nov 2021 20:09:52 +1100
+Merge branch 'master' of https://github.com/rmitStockIT/stockIT/
+
+d5afdf7  Taylen Anderson 
+s3925287@student.rmit.edu.au
+Wed, 3 Nov 2021 20:09:31 +1100
+Signed-off-by: Taylen Anderson <s3925287@student.rmit.edu.au>
+
+2359c96  Brandon McPherson 
+s3921902@student.rmit.edu.au
+Sun, 31 Oct 2021 17:48:23 +1000
+2nd unfinished draft 
+
+f45de09  Taylen Anderson 
+s3925287@student.rmit.edu.au
+Sun, 31 Oct 2021 18:39:01 +1100
+Merge branch 'main' of https://github.com/rmitStockIT/stockIT/
+
+01aafb1  Taylen Anderson 
+s3925287@student.rmit.edu.au
+Sun, 31 Oct 2021 18:38:53 +1100
+agenda5 uploaded 
+
+f9ea147  Timothy Prast 
+S3921214@student.rmit.edu.au
+Sun, 31 Oct 2021 13:38:01 +0800
+open and close of docs
+
+fbae2d2  Timothy Prast 
+S3921214@student.rmit.edu.au
+Sun, 31 Oct 2021 13:37:39 +0800
+Delete ~$mPrastWIPFor311021Meeting.docx
+
+ba848e1  Timothy Prast 
+S3921214@student.rmit.edu.au
+Sun, 31 Oct 2021 13:37:33 +0800
+Meeting notes for 311021 TP
+
+489e01a  Timothy Prast 
+S3921214@student.rmit.edu.au
+Sun, 31 Oct 2021 09:52:39 +0800
+File cleanup + new docs
+
+3a8f028  Tetsu Watanabe 
+s3923443@student.rmit.edu.au
+Fri, 29 Oct 2021 22:56:01 +1000
+Push draft script for assigment 5
+
+8e561ac  Tetsu Watanabe 
+s3923443@student.rmit.edu.au
+Fri, 29 Oct 2021 22:32:44 +1000
+Just a test push by TW
+
+47e8dbc  Taylen Anderson 
+s3925287@student.rmit.edu.au
+Fri, 29 Oct 2021 23:20:52 +1100
+Created assignment 5 document folder
+
+a86a7a7  Taylen Anderson 
+s3925287@student.rmit.edu.au
+Fri, 29 Oct 2021 21:48:47 +1100
+Completion of Aims section for review inside DetailedDescription.docx
+
+f992c3e  Taylen Anderson 
+s3925287@student.rmit.edu.au
+Thu, 28 Oct 2021 21:42:49 +1100
+updated files and moved project plan documents to new folder.
+
+99ff807  Taylen Anderson 
+s3925287@student.rmit.edu.au
+Thu, 28 Oct 2021 21:37:33 +1100
+Merge branch 'main' of https://github.com/rmitStockIT/stockIT/
+
+c27878f  Taylen Anderson 
+s3925287@student.rmit.edu.au
+Thu, 28 Oct 2021 21:37:25 +1100
+Added actions4 
+
+f979c53  Timothy Prast 
+S3921214@student.rmit.edu.au
+Thu, 28 Oct 2021 16:53:13 +0800
+file changes
+
+e4d6cc9  Timothy Prast 
+S3921214@student.rmit.edu.au
+Thu, 28 Oct 2021 16:45:59 +0800
+Figma pushes
+
+4d72c2d  Timothy Prast 
+S3921214@student.rmit.edu.au
+Thu, 28 Oct 2021 16:42:36 +0800
+File movement
+
+a53b7d3  Timothy Prast 
+S3921214@student.rmit.edu.au
+Thu, 28 Oct 2021 15:41:09 +0800
+Merge branch 'main' of https://github.com/rmitStockIT/stockIT
+
+d532736  Timothy Prast 
+S3921214@student.rmit.edu.au
+Thu, 28 Oct 2021 15:41:06 +0800
+assignment 3 to do project overview
+
+cd7692b  Taylen Anderson 
+s3925287@student.rmit.edu.au
+Thu, 28 Oct 2021 18:26:16 +1100
+Merge branch 'main' of https://github.com/rmitStockIT/stockIT/
+
+ee4e541  Taylen Anderson 
+s3925287@student.rmit.edu.au
+Thu, 28 Oct 2021 18:26:01 +1100
+Signed-off-by: Taylen Anderson <s3925287@student.rmit.edu.au>
+
+dece0b3  Timothy Prast 
+S3921214@student.rmit.edu.au
+Thu, 28 Oct 2021 12:24:12 +0800
+file movement push
+
+df80855  Timothy Prast 
+S3921214@student.rmit.edu.au
+Thu, 28 Oct 2021 11:34:47 +0800
+Pushed wireframming assests
+
+5106d71  Taylen Anderson 
+s3925287@student.rmit.edu.au
+Wed, 27 Oct 2021 22:35:35 +1100
+Added project managment folder and assignment 3 folder 
+
+2672d0a  Taylen Anderson 
+s3925287@student.rmit.edu.au
+Wed, 27 Oct 2021 22:12:37 +1100
+Updated styling to match agreed upon conventions.
+
+ebb1579  Timothy Prast 
+S3921214@student.rmit.edu.au
+Fri, 22 Oct 2021 09:57:52 +0800
+name change push
+
+800aa08  Timothy Prast 
+S3921214@student.rmit.edu.au
+Fri, 22 Oct 2021 09:53:04 +0800
+Pushed key sells and project overview
+
+deee469  Brandon McPherson 
+89779947+Brandon McPherson@users.noreply.github.com
+Tue, 19 Oct 2021 18:08:59 +1000
+Merge pull request #2 from rmitStockIT/main
