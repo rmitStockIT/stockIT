@@ -1,0 +1,494 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=windows-1252"/>
+	<title>stockIT/AuditTrailComments.docx at main &middot; rmitStockIT/stockIT</title>
+	<meta name="generator" content="LibreOffice 7.2.2.2 (Windows)"/>
+	<meta name="created" content="00:00:00"/>
+	<meta name="changed" content="2021-11-19T12:22:32.138000000"/>
+	<meta name="description" content="introduction to it group assignment initial description. - stockIT/AuditTrailComments.docx at main &middot; rmitStockIT/stockIT"/>
+	<meta name="" content=""/>
+	<meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show"/>
+	<meta name="apple-itunes-app" content="app-id=1477376905"/>
+	<meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors"/>
+	<meta name="browser-optimizely-client-errors-url" content="https://api.github.com/_private/browser/optimizely_client/errors"/>
+	<meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats"/>
+	<meta name="color-scheme" content="light dark"/>
+	<meta name="enabled-features" content="ACTIONS_CALLABLE_WORKFLOWS,ACTIONS_TYPED_INPUTS,MARKETPLACE_PENDING_INSTALLATIONS,FILE_UPLOAD_CURSOR_POSITION,LINKIFY_SELECTED_TEXT_ON_URL_PASTE,PRESENCE_IDLE"/>
+	<meta name="expected-hostname" content="github.com"/>
+	<meta name="github-keyboard-shortcuts" content="repository,source-code"/>
+	<meta name="go-import" content="github.com/rmitStockIT/stockIT git https://github.com/rmitStockIT/stockIT.git"/>
+	<meta name="google-site-verification" content="c1kuD-K2HIVF635lypcsWPoD4kilo5-jA_wBFyT4uMY"/>
+	<meta name="hostname" content="github.com"/>
+	<meta name="hovercard-subject-tag" content="repository:417973714"/>
+	<meta name="html-safe-nonce" content="83b7b69cbdaed07662a74be0a8994bb1dcfa3bb903841026633baa4a31b05cbb"/>
+	<meta name="js-proxy-site-detection-payload" content="OThlOWRmNTI3ODdhODdmZDAwMjY2MDdiZmFiNmJhODUyZTRlOWIzNWFmZjI1ODgwYzE5Njc5ZDllNmEwNzZmY3x7InJlbW90ZV9hZGRyZXNzIjoiMTIwLjE5LjE1NC4yNTMiLCJyZXF1ZXN0X2lkIjoiMThDRTozREI0OjkxN0I3MDpFNDQ4MDE6NjE5NkU2NTYiLCJ0aW1lc3RhbXAiOjE2MzcyNzkzMjksImhvc3QiOiJnaXRodWIuY29tIn0="/>
+	<meta name="keyboard-shortcuts-preference" content="all"/>
+	<meta name="msapplication-TileColor" content="#ffffff"/>
+	<meta name="msapplication-TileImage" content="/windows-tile.png"/>
+	<meta name="octolytics-actor-hash" content="cf61b14ba60a4e69670c0fbe173e3cbf7e6f3bd3b35ccee0df7c8f0aae6c4355"/>
+	<meta name="octolytics-actor-id" content="90659029"/>
+	<meta name="octolytics-actor-login" content="ahmetakgunrmit"/>
+	<meta name="octolytics-dimension-repository_id" content="417973714"/>
+	<meta name="octolytics-dimension-repository_is_fork" content="true"/>
+	<meta name="octolytics-dimension-repository_network_root_id" content="411106338"/>
+	<meta name="octolytics-dimension-repository_network_root_nwo" content="taylenAnderson/stockIT"/>
+	<meta name="octolytics-dimension-repository_nwo" content="rmitStockIT/stockIT"/>
+	<meta name="octolytics-dimension-repository_parent_id" content="411106338"/>
+	<meta name="octolytics-dimension-repository_parent_nwo" content="taylenAnderson/stockIT"/>
+	<meta name="octolytics-dimension-repository_public" content="true"/>
+	<meta name="octolytics-dimension-user_id" content="92654264"/>
+	<meta name="octolytics-dimension-user_login" content="rmitStockIT"/>
+	<meta name="octolytics-url" content="https://collector.githubapp.com/github/collect"/>
+	<meta name="optimizely-datafile" content="{&quot;version&quot;: &quot;4&quot;, &quot;rollouts&quot;: [], &quot;typedAudiences&quot;: [], &quot;anonymizeIP&quot;: true, &quot;projectId&quot;: &quot;16737760170&quot;, &quot;variables&quot;: [], &quot;featureFlags&quot;: [], &quot;experiments&quot;: [{&quot;status&quot;: &quot;Running&quot;, &quot;audienceIds&quot;: [], &quot;variations&quot;: [{&quot;variables&quot;: [], &quot;id&quot;: &quot;20438636352&quot;, &quot;key&quot;: &quot;control&quot;}, {&quot;variables&quot;: [], &quot;id&quot;: &quot;20484957397&quot;, &quot;key&quot;: &quot;treatment&quot;}], &quot;id&quot;: &quot;20479227424&quot;, &quot;key&quot;: &quot;growth_ghec_onboarding_experience&quot;, &quot;layerId&quot;: &quot;20467848595&quot;, &quot;trafficAllocation&quot;: [{&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 1000}, {&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 3000}, {&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 5000}, {&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 6000}, {&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 8000}, {&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 10000}], &quot;forcedVariations&quot;: {&quot;85e2238ce2b9074907d7a3d91d6feeae&quot;: &quot;control&quot;}}, {&quot;status&quot;: &quot;Running&quot;, &quot;audienceIds&quot;: [], &quot;variations&quot;: [{&quot;variables&quot;: [], &quot;id&quot;: &quot;20667381018&quot;, &quot;key&quot;: &quot;control&quot;}, {&quot;variables&quot;: [], &quot;id&quot;: &quot;20680930759&quot;, &quot;key&quot;: &quot;treatment&quot;}], &quot;id&quot;: &quot;20652570897&quot;, &quot;key&quot;: &quot;project_genesis&quot;, &quot;layerId&quot;: &quot;20672300363&quot;, &quot;trafficAllocation&quot;: [{&quot;entityId&quot;: &quot;20667381018&quot;, &quot;endOfRange&quot;: 5000}, {&quot;entityId&quot;: &quot;20680930759&quot;, &quot;endOfRange&quot;: 10000}], &quot;forcedVariations&quot;: {&quot;83356e17066d336d1803024138ecb683&quot;: &quot;treatment&quot;, &quot;18e31c8a9b2271332466133162a4aa0d&quot;: &quot;treatment&quot;, &quot;10f8ab3fbc5ebe989a36a05f79d48f32&quot;: &quot;treatment&quot;, &quot;1686089f6d540cd2deeaec60ee43ecf7&quot;: &quot;treatment&quot;}}], &quot;audiences&quot;: [{&quot;conditions&quot;: &quot;[\&quot;or\&quot;, {\&quot;match\&quot;: \&quot;exact\&quot;, \&quot;name\&quot;: \&quot;$opt_dummy_attribute\&quot;, \&quot;type\&quot;: \&quot;custom_attribute\&quot;, \&quot;value\&quot;: \&quot;$opt_dummy_value\&quot;}]&quot;, &quot;id&quot;: &quot;$opt_dummy_audience&quot;, &quot;name&quot;: &quot;Optimizely-Generated Audience for Backwards Compatibility&quot;}], &quot;groups&quot;: [], &quot;sdkKey&quot;: &quot;WTc6awnGuYDdG98CYRban&quot;, &quot;environmentKey&quot;: &quot;production&quot;, &quot;attributes&quot;: [{&quot;id&quot;: &quot;16822470375&quot;, &quot;key&quot;: &quot;user_id&quot;}, {&quot;id&quot;: &quot;17143601254&quot;, &quot;key&quot;: &quot;spammy&quot;}, {&quot;id&quot;: &quot;18175660309&quot;, &quot;key&quot;: &quot;organization_plan&quot;}, {&quot;id&quot;: &quot;18813001570&quot;, &quot;key&quot;: &quot;is_logged_in&quot;}, {&quot;id&quot;: &quot;19073851829&quot;, &quot;key&quot;: &quot;geo&quot;}, {&quot;id&quot;: &quot;20175462351&quot;, &quot;key&quot;: &quot;requestedCurrency&quot;}, {&quot;id&quot;: &quot;20785470195&quot;, &quot;key&quot;: &quot;country_code&quot;}], &quot;botFiltering&quot;: false, &quot;accountId&quot;: &quot;16737760170&quot;, &quot;events&quot;: [{&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;17911811441&quot;, &quot;key&quot;: &quot;hydro_click.dashboard.teacher_toolbox_cta&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18124116703&quot;, &quot;key&quot;: &quot;submit.organizations.complete_sign_up&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18145892387&quot;, &quot;key&quot;: &quot;no_metric.tracked_outside_of_optimizely&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18178755568&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.add_repo&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18180553241&quot;, &quot;key&quot;: &quot;submit.repository_imports.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18186103728&quot;, &quot;key&quot;: &quot;click.help.learn_more_about_repository_creation&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18188530140&quot;, &quot;key&quot;: &quot;test_event.do_not_use_in_production&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18191963644&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.transfer_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18195612788&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.import_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18210945499&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.invite_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18211063248&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.create_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18215721889&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.update_profile&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18224360785&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.dismiss&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18234832286&quot;, &quot;key&quot;: &quot;submit.organization_activation.complete&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18252392383&quot;, &quot;key&quot;: &quot;submit.org_repository.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18257551537&quot;, &quot;key&quot;: &quot;submit.org_member_invitation.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18259522260&quot;, &quot;key&quot;: &quot;submit.organization_profile.update&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18564603625&quot;, &quot;key&quot;: &quot;view.classroom_select_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18568612016&quot;, &quot;key&quot;: &quot;click.classroom_sign_in_click&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18572592540&quot;, &quot;key&quot;: &quot;view.classroom_name&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18574203855&quot;, &quot;key&quot;: &quot;click.classroom_create_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18582053415&quot;, &quot;key&quot;: &quot;click.classroom_select_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18589463420&quot;, &quot;key&quot;: &quot;click.classroom_create_classroom&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18591323364&quot;, &quot;key&quot;: &quot;click.classroom_create_first_classroom&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18591652321&quot;, &quot;key&quot;: &quot;click.classroom_grant_access&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18607131425&quot;, &quot;key&quot;: &quot;view.classroom_creation&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;18831680583&quot;, &quot;key&quot;: &quot;upgrade_account_plan&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19064064515&quot;, &quot;key&quot;: &quot;click.signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19075373687&quot;, &quot;key&quot;: &quot;click.view_account_billing_page&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19077355841&quot;, &quot;key&quot;: &quot;click.dismiss_signup_prompt&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19079713938&quot;, &quot;key&quot;: &quot;click.contact_sales&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19120963070&quot;, &quot;key&quot;: &quot;click.compare_account_plans&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19151690317&quot;, &quot;key&quot;: &quot;click.upgrade_account_cta&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19424193129&quot;, &quot;key&quot;: &quot;click.open_account_switcher&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19520330825&quot;, &quot;key&quot;: &quot;click.visit_account_profile&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19540970635&quot;, &quot;key&quot;: &quot;click.switch_account_context&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19730198868&quot;, &quot;key&quot;: &quot;submit.homepage_signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19820830627&quot;, &quot;key&quot;: &quot;click.homepage_signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19988571001&quot;, &quot;key&quot;: &quot;click.create_enterprise_trial&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20036538294&quot;, &quot;key&quot;: &quot;click.create_organization_team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20040653299&quot;, &quot;key&quot;: &quot;click.input_enterprise_trial_form&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20062030003&quot;, &quot;key&quot;: &quot;click.continue_with_team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20068947153&quot;, &quot;key&quot;: &quot;click.create_organization_free&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20086636658&quot;, &quot;key&quot;: &quot;click.signup_continue.username&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20091648988&quot;, &quot;key&quot;: &quot;click.signup_continue.create_account&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20103637615&quot;, &quot;key&quot;: &quot;click.signup_continue.email&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20111574253&quot;, &quot;key&quot;: &quot;click.signup_continue.password&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20120044111&quot;, &quot;key&quot;: &quot;view.pricing_page&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20152062109&quot;, &quot;key&quot;: &quot;submit.create_account&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20165800992&quot;, &quot;key&quot;: &quot;submit.upgrade_payment_form&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20171520319&quot;, &quot;key&quot;: &quot;submit.create_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20222645674&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.discuss_your_needs&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20227443657&quot;, &quot;key&quot;: &quot;submit.verify_primary_user_email&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20234607160&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.try_enterprise&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20238175784&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20239847212&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.continue_free&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20251097193&quot;, &quot;key&quot;: &quot;recommended_plan&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20438619534&quot;, &quot;key&quot;: &quot;click.pricing_calculator.1_member&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20456699683&quot;, &quot;key&quot;: &quot;click.pricing_calculator.15_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20467868331&quot;, &quot;key&quot;: &quot;click.pricing_calculator.10_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20476267432&quot;, &quot;key&quot;: &quot;click.trial_days_remaining&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20476357660&quot;, &quot;key&quot;: &quot;click.discover_feature&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20479287901&quot;, &quot;key&quot;: &quot;click.pricing_calculator.custom_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20481107083&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.apply_teacher_benefits&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20483089392&quot;, &quot;key&quot;: &quot;click.pricing_calculator.5_members&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;, &quot;20652570897&quot;], &quot;id&quot;: &quot;20484283944&quot;, &quot;key&quot;: &quot;click.onboarding_task&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20484996281&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.apply_student_benefits&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20486713726&quot;, &quot;key&quot;: &quot;click.onboarding_task_breadcrumb&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20490791319&quot;, &quot;key&quot;: &quot;click.upgrade_to_enterprise&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20491786766&quot;, &quot;key&quot;: &quot;click.talk_to_us&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20494144087&quot;, &quot;key&quot;: &quot;click.dismiss_enterprise_trial&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;, &quot;20652570897&quot;], &quot;id&quot;: &quot;20499722759&quot;, &quot;key&quot;: &quot;completed_all_tasks&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;, &quot;20652570897&quot;], &quot;id&quot;: &quot;20500710104&quot;, &quot;key&quot;: &quot;completed_onboarding_tasks&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20513160672&quot;, &quot;key&quot;: &quot;click.read_doc&quot;}, {&quot;experimentIds&quot;: [&quot;20652570897&quot;], &quot;id&quot;: &quot;20516196762&quot;, &quot;key&quot;: &quot;actions_enabled&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20518980986&quot;, &quot;key&quot;: &quot;click.dismiss_trial_banner&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20535446721&quot;, &quot;key&quot;: &quot;click.issue_actions_prompt.dismiss_prompt&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20557002247&quot;, &quot;key&quot;: &quot;click.issue_actions_prompt.setup_workflow&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20595070227&quot;, &quot;key&quot;: &quot;click.pull_request_setup_workflow&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20626600314&quot;, &quot;key&quot;: &quot;click.seats_input&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20642310305&quot;, &quot;key&quot;: &quot;click.decrease_seats_number&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20662990045&quot;, &quot;key&quot;: &quot;click.increase_seats_number&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20679620969&quot;, &quot;key&quot;: &quot;click.public_product_roadmap&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20761240940&quot;, &quot;key&quot;: &quot;click.dismiss_survey_banner&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20767210721&quot;, &quot;key&quot;: &quot;click.take_survey&quot;}, {&quot;experimentIds&quot;: [&quot;20652570897&quot;], &quot;id&quot;: &quot;20795281201&quot;, &quot;key&quot;: &quot;click.archive_list&quot;}], &quot;revision&quot;: &quot;974&quot;}"/>
+	<meta name="request-id" content="18CE:3DB4:917B70:E44801:6196E656"/>
+	<meta name="selected-link" content=""/>
+	<meta name="theme-color" content="#1e2327"/>
+	<meta name="twitter:card" content="summary_large_image"/>
+	<meta name="twitter:description" content="introduction to it group assignment initial description. - stockIT/AuditTrailComments.docx at main &middot; rmitStockIT/stockIT"/>
+	<meta name="twitter:image:src" content="https://opengraph.githubassets.com/2c3670b4fd39968f20c6a1fd27d486305c0dda7227d6b67f83f0892df3538214/rmitStockIT/stockIT"/>
+	<meta name="twitter:site" content="@github"/>
+	<meta name="twitter:title" content="stockIT/AuditTrailComments.docx at main &middot; rmitStockIT/stockIT"/>
+	<meta name="user-login" content="ahmetakgunrmit"/>
+	<meta name="viewport" content="width=device-width"/>
+	<meta name="visitor-hmac" content="a95b1e92a6b96d2018d07f8a84bee11a48a24569f3f606ec9ba22b1c68e4939c"/>
+	<meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9ybWl0U3RvY2tJVC9zdG9ja0lUL3RyZWUvbWFpbi9Bc3NpZ25tZW50My9HaXRodWJBbmRUb29scyIsInJlcXVlc3RfaWQiOiIxOENFOjNEQjQ6OTE3QjcwOkU0NDgwMTo2MTk2RTY1NiIsInZpc2l0b3JfaWQiOiI4NzEzNTgwMDIzNDExOTc4OTk1IiwicmVnaW9uX2VkZ2UiOiJhcC1zb3V0aGVhc3QtMiIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ=="/>
+	<meta name="" content="1401488693436528">
+	<meta name="" content="https://opengraph.githubassets.com/2c3670b4fd39968f20c6a1fd27d486305c0dda7227d6b67f83f0892df3538214/rmitStockIT/stockIT">
+	<meta name="" content="introduction to it group assignment initial description. - stockIT/AuditTrailComments.docx at main · rmitStockIT/stockIT">
+	<meta name="" content="1200">
+	<meta name="" content="600">
+	<meta name="" content="GitHub">
+	<meta name="" content="object">
+	<meta name="" content="stockIT/AuditTrailComments.docx at main · rmitStockIT/stockIT">
+	<meta name="" content="https://github.com/rmitStockIT/stockIT">
+	<meta name="" content="introduction to it group assignment initial description. - stockIT/AuditTrailComments.docx at main · rmitStockIT/stockIT">
+	<meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
+	<meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
+	<meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
+	<meta http-equiv="x-pjax-version" content="cdbb6b153fbc49c112e16020084f612466b1be50d04891e417bc559e2f99e27a">
+	<meta http-equiv="x-pjax-csp-version" content="9ea82e8060ac9d44365bfa193918b70ed58abd9413362ba412abb161b3a8d1b6">
+	<meta http-equiv="x-pjax-css-version" content="1ba20ae596fc096cc3bfcb5237cf93ba49ce071818695bb85ca7f6690ba0ab2d">
+	<meta http-equiv="x-pjax-js-version" content="48703c0702d806429b18b916a5fb551889f923bf309677b0fef3663be9c267d4">
+	<style type="text/css">
+		@page { size: 21cm 29.7cm; margin-left: 2cm; margin-right: 1cm; margin-top: 1cm; margin-bottom: 1cm }
+		p { color: #000000; line-height: 115%; margin-bottom: 0.25cm; background: transparent }
+		h1 { color: #000000; margin-bottom: 0.21cm; background: transparent; page-break-after: avoid }
+		h1.western { font-family: "Liberation Sans", sans-serif; font-size: 18pt; font-weight: bold }
+		h1.cjk { font-family: "Microsoft YaHei"; font-size: 18pt; font-weight: bold }
+		h1.ctl { font-family: "Arial"; font-size: 18pt; font-weight: bold }
+		h3 { color: #000000; margin-top: 0.25cm; margin-bottom: 0.21cm; background: transparent; page-break-after: avoid }
+		h3.western { font-family: "Liberation Sans", sans-serif; font-size: 14pt; font-weight: bold }
+		h3.cjk { font-family: "Microsoft YaHei"; font-size: 14pt; font-weight: bold }
+		h3.ctl { font-family: "Arial"; font-size: 14pt; font-weight: bold }
+		h2 { color: #000000; margin-top: 0.35cm; margin-bottom: 0.21cm; background: transparent; page-break-after: avoid }
+		h2.western { font-family: "Liberation Sans", sans-serif; font-size: 16pt; font-weight: bold }
+		h2.cjk { font-family: "Microsoft YaHei"; font-size: 16pt; font-weight: bold }
+		h2.ctl { font-family: "Arial"; font-size: 16pt; font-weight: bold }
+		a:link { color: #000080; so-language: zxx; text-decoration: underline }
+		code.western { font-family: "Liberation Mono", monospace }
+		code.cjk { font-family: "NSimSun", monospace }
+		code.ctl { font-family: "Liberation Mono", monospace }
+		strong { font-weight: bold }
+		kbd.western { font-family: "Liberation Mono", monospace }
+		kbd.cjk { font-family: "NSimSun", monospace }
+		kbd.ctl { font-family: "Liberation Mono", monospace }
+	</style>
+</head>
+<body lang="en-AU" text="#000000" link="#000080" vlink="#800000" dir="ltr">
+<form action="/logout" method="post">
+	<input type="hidden" name="authenticity_token" value="/958Zmt6lpj7R5+NfGmB4BpcpYwAyMwj4hHIK1vQapHgxWT2C0cHjLG/Y/kB07H6dE4kI02hz9BeAsWdiwwhWQ==">
+</form>
+<form action="/notifications/subscribe" method="post">
+	<input type="hidden" name="authenticity_token" value="JoAsnHl/G3iWZga2+ODkvv1i5VagdYhQM8whRSzQZaW7OI/hCZKOyJ5V7ShuxdtFWsv783dqBBgKpRXq9PHUKA==">
+	<input type="hidden" name="repository_id" value="417973714">
+</form>
+<form action="/rmitStockIT/stockIT/unstar" method="post">
+	<input type="hidden" name="authenticity_token" value="Rfc6KT535NqdxTgwtzkvxjbo5DANADj7+qhFO3DvQNgE11nLCqNb4Sfimo+yei0tSVuOWk8Cr6Og+HIikfIG+w==">
+	<input type="hidden" name="context" value="repository">
+</form>
+<form action="/rmitStockIT/stockIT/star" method="post">
+	<input type="hidden" name="authenticity_token" value="AD0UcTWJXFF8GUQruoHMmG/OBmc5819bQPTzowLYgFKRgTWtW8YaPHDIAg9350s5mEYRcnlPmxHreBb26zJuGA==">
+	<input type="hidden" name="context" value="repository">
+</form>
+<form action="/rmitStockIT/stockIT/branches" method="post">
+	<input type="hidden" name="authenticity_token" value="PFshmD53R/LSi6j8nCUoIS0cn0nyrpuNHOeGrGc2HUY4XI0Nf0OVEJ32R6Y0bYpYz+Wia2uYYFckiEvsF1Pq1Q==">
+	<input type="hidden" name="name" value="{{ refName }}">
+	<input type="hidden" name="branch" value="main">
+	<input type="hidden" name="path_binary" value="QXNzaWdubWVudDMvR2l0aHViQW5kVG9vbHMvQXVkaXRUcmFpbENvbW1lbnRzLmRvY3g=">
+</form>
+<form action="/rmitStockIT/stockIT/delete/main/Assignment3/GithubAndTools/AuditTrailComments.docx" method="post">
+	<input type="hidden" name="authenticity_token" value="UbyNvkZFX1Dt6SVeLtITfEixysi/IZVV6xNv1z+x8b+FAVp7/6ll9wO+3bVZtZRJr7iftbwXs8yJFnlsKWu+rw==">
+</form><p><a href="#start-of-content">Skip to content</a> 
+</p>
+<form action="/rmitStockIT/stockIT/search">
+	<p><input type="text" name="q"  size="20" style="width: 4.45cm; height: 0.72cm"><input type="hidden" value="OOI7i4a0KpThwblGC2G0gBB77sm+TtbetWpQcH32YXONg+yyb0eU2ZEUgMv5Kd7qtkhz8VbPd/P69vmrTkT3EA=="><input type="hidden" name="type">
+		</p>
+</form>
+<ul>
+	<li><p style="margin-bottom: 0cm"><a href="../Task%203">In this
+	repository All GitHub &crarr; </a>
+	</p>
+	<p><a href="../Task%203">Jump to &crarr; </a>
+	</p>
+</ul>
+<ul>
+	<li><p>No suggested jump to results 
+	</p>
+</ul>
+<ul>
+	<li><p style="margin-bottom: 0cm"><a name="jump-to-results"></a><a href="../Task%203">In
+	this repository All GitHub &crarr; </a>
+	</p>
+	<p style="margin-bottom: 0cm"><a href="../Task%203">Jump to &crarr; </a>
+	</p>
+	<li><p style="margin-bottom: 0cm"><a href="../Task%203">In this
+	organization All GitHub &crarr; </a>
+	</p>
+	<p style="margin-bottom: 0cm"><a href="../Task%203">Jump to &crarr; </a>
+	</p>
+	<li><p style="margin-bottom: 0cm"><a href="../Task%203">In this
+	repository All GitHub &crarr; </a>
+	</p>
+	<p style="margin-bottom: 0cm"><a href="../Task%203">Jump to &crarr; </a>
+	</p>
+	<li><p>Loading 
+	</p>
+</ul>
+<p style="margin-bottom: 0cm"><a href="/dashboard">Dashboard </a><a href="/pulls">Pull
+requests </a><a href="/issues">Issues </a>
+</p>
+<p style="margin-bottom: 0cm"><a href="/marketplace">Marketplace </a>
+</p>
+<p><a href="/explore">Explore </a><a href="/codespaces">Codespaces
+</a><a href="/sponsors/accounts">Sponsors</a> <a href="/settings/profile">Settings
+</a>
+<a href="/ahmetakgunrmit">
+  <font color="#000080">
+    <img src="https://avatars.githubusercontent.com/u/90659029?s=40&v=4" name="Image1" alt="@ahmetakgunrmit" align="bottom" width="20" height="20" border="1"/>
+  </font>
+</a>
+<a href="/ahmetakgunrmit">
+ahmetakgunrmit </a>
+</p>
+<p>Sign out 
+</p>
+<p style="margin-bottom: 0cm"><a href="/new">New repository </a><a href="/new/import">Import
+repository </a><a href="https://gist.github.com/">New gist </a><a href="/organizations/new">New
+organization </a>
+</p>
+<p><img src="https://avatars.githubusercontent.com/u/90659029?s=40&v=4" name="Image2" alt="@ahmetakgunrmit" align="bottom" width="20" height="20" border="0"/>
+
+</p>
+<p>Loading 
+</p>
+<p>Sorry, something went wrong. 
+</p>
+<div id="start-of-content" dir="ltr"><p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="js-flash-container" dir="ltr"><p style="margin-bottom: 0cm">{{
+	message }}</p>
+</div>
+<p style="margin-bottom: 0cm"><img name="Object1" align="bottom" width="47" height="47"/>
+
+rmitStockIT /stockIT Type <code class="western">#</code> for issues
+and pull requests, <code class="western">&gt;</code> for commands,
+and <code class="western">?</code> for help Type <code class="western">#</code>
+for issues, pull requests, and projects, <code class="western">&gt;</code>
+for commands, and <code class="western">?</code> for help Type <code class="western">#</code>
+for issues, pull requests, and projects, <code class="western">/</code>
+for files, and <code class="western">&gt;</code> for commands 
+</p>
+<p style="margin-bottom: 0cm">We&rsquo;ve encountered an error and
+some results aren't available at this time. Type a new search or try
+again later. 
+</p>
+<p style="margin-bottom: 0cm">No results matched your search 
+</p>
+<p style="margin-bottom: 0cm">Search for <strong>issues</strong> and
+<strong>pull requests</strong> <kbd class="western">#</kbd> Search
+for <strong>issues, pull requests, discussions,</strong> and <strong>projects</strong>
+<kbd class="western">#</kbd> Search for <strong>organisations,
+repositories,</strong> and <strong>users</strong> <kbd class="western">@</kbd>
+Search for <strong>projects</strong> <kbd class="western">!</kbd>
+Search for <strong>files</strong> <kbd class="western">/</kbd>
+Activate <strong>command mode</strong> <kbd class="western">&gt;</kbd>
+Search your issues, pull requests, and discussions <kbd class="western">#
+author:@me</kbd> Search your issues, pull requests, and discussions <kbd class="western">#
+author:@me</kbd> Filter to pull requests <kbd class="western"># is:pr</kbd>
+Filter to issues <kbd class="western"># is:issue</kbd> Filter to
+discussions <kbd class="western"># is:discussion</kbd> Filter to
+projects <kbd class="western"># is:project</kbd> Filter to open
+issues, pull requests, and discussions <kbd class="western"># is:open</kbd>
+</p>
+<div id="command-palette-pjax-meta-data" dir="ltr"><p style="margin-bottom: 0cm">
+	<br/>
+
+	</p>
+</div>
+<div id="repository-container-header" dir="ltr"><h1 class="western"><a href="/rmitStockIT">rmitStockIT</a>
+	/ <strong><a href="/rmitStockIT/stockIT">stockIT</a> </strong>Public
+		</h1>
+	<p>forked from <a href="/taylenAnderson/stockIT">taylenAnderson/stockIT</a>
+		</p>
+	<ul>
+		<li><p style="border: none; padding: 0cm">Unwatch Stop ignoring
+		Watch 
+		</p>
+		<ul>
+			<ul>
+				<h3 class="western" style="border: none; padding: 0cm">Notifications</h3>
+			</ul>
+		</ul>
+		<p style="margin-bottom: 0cm; border: none; padding: 0cm">Participating
+		and @mentions 
+		</p>
+		<p style="margin-bottom: 0cm; border: none; padding: 0cm">Only
+		receive notifications from this repository when participating or
+		@mentioned. 
+		</p>
+		<p style="margin-bottom: 0cm; border: none; padding: 0cm">All
+		Activity 
+		</p>
+		<p style="margin-bottom: 0cm; border: none; padding: 0cm">Notified
+		of all notifications on this repository. 
+		</p>
+		<p style="margin-bottom: 0cm; border: none; padding: 0cm">Ignore 
+		</p>
+		<p style="border: none; padding: 0cm">Never be notified. 
+		</p>
+		<p style="margin-bottom: 0cm; border: none; padding: 0cm">Custom</p>
+		<p style="margin-bottom: 0cm; border: none; padding: 0cm">Select
+		events you want to be notified of in addition to participating and
+		@mentions. 
+		</p>
+		<p style="border: none; padding: 0cm">Get push notifications on <a href="https://apps.apple.com/app/apple-store/id1477376905?ct=watch-dropdown&amp;mt=8&amp;pt=524675" target="_blank">iOS</a>
+		or <a href="https://play.google.com/store/apps/details?id=com.github.android&amp;referrer=utm_campaign%3Dwatch-dropdown%26utm_medium%3Dweb%26utm_source%3Dgithub" target="_blank">Android</a>.
+				</p>
+		<h1 class="western" style="border: none; padding: 0cm">Custom 
+		</h1>
+		<h1 class="western" style="border: none; padding: 0cm">Custom 
+		</h1>
+		<p style="margin-bottom: 0cm; border: none; padding: 0cm">Select
+		events you want to be notified of in addition to participating and
+		@mentions. 
+		</p>
+		<form action="/notifications/subscribe" method="post">
+			<input type="hidden" name="authenticity_token" value="Al4FNkSIgVEb9HwdHzc6ix0l65DLkJAYanJ83NIQue6f5qZLNGUU4RPHl4OJEgVwuoz1NRyPHFBTG0hzCjEIYw==">
+			<input type="hidden" name="repository_id" value="417973714">
+			<p style="margin-bottom: 0cm; border: none; padding: 0cm"><input type="checkbox" name="thread_types[]" value="Issue"  style="width: 0.35cm; height: 0.35cm">
+			Issues 
+			</p>
+			<p style="margin-bottom: 0cm; border: none; padding: 0cm"><input type="checkbox" name="thread_types[]" value="PullRequest"  style="width: 0.35cm; height: 0.35cm">
+			Pull requests 
+			</p>
+			<p style="margin-bottom: 0cm; border: none; padding: 0cm"><input type="checkbox" name="thread_types[]" value="Release"  style="width: 0.35cm; height: 0.35cm">
+			Releases 
+			</p>
+			<p style="margin-bottom: 0cm; border: none; padding: 0cm"><input type="checkbox" name="thread_types[]" value="Discussion"  style="width: 0.35cm; height: 0.35cm">
+			Discussions 
+			</p>
+			<p style="margin-bottom: 0cm; border: none; padding: 0cm"><input type="checkbox" name="thread_types[]" value="SecurityAlert"  style="width: 0.35cm; height: 0.35cm">
+			Security alerts 
+			</p>
+		</form>
+		<p style="border: none; padding: 0cm">Apply Cancel 
+		</p>
+		<p style="margin-bottom: 0cm; border: none; padding: 0cm"><a href="/rmitStockIT/stockIT/watchers">0
+		</a>
+		</p>
+		<li><p style="border: none; padding: 0cm">Unstar <a href="/rmitStockIT/stockIT/stargazers">0
+		</a>
+		</p>
+		<p style="border: none; padding: 0cm">Star <a href="/rmitStockIT/stockIT/stargazers">0
+		</a>
+		</p>
+		<li><p style="border: none; padding: 0cm">Fork 
+		</p>
+		<h1 class="western" style="border: none; padding: 0cm">Fork stockIT</h1>
+		<p style="border: none; padding: 0cm">Loading 
+		</p>
+		<p style="border: none; padding: 0cm">If this dialogue fails to
+		load, you can visit <a href="/rmitStockIT/stockIT/fork">the fork
+		page</a> directly.</p>
+		<p style="margin-bottom: 0cm; border: none; padding: 0cm"><a href="/rmitStockIT/stockIT/network/members">2
+		</a>
+		</p>
+		<li><p style="border: none; padding: 0cm"></p>
+	</ul>
+	<div id="responsive-meta-container" dir="ltr"><p><br/>
+<br/>
+
+		</p>
+	</div>
+	<ul>
+		<li><p style="margin-bottom: 0cm"><a name="code-tab"></a><a name="code-repo-tab-count"></a>
+		<a href="/rmitStockIT/stockIT">Code </a>
+		</p>
+		<li><p style="margin-bottom: 0cm"><a name="pull-requests-tab"></a><a name="pull-requests-repo-tab-count"></a>
+		<a href="/rmitStockIT/stockIT/pulls">Pull requests 0 </a>
+		</p>
+		<li><p style="margin-bottom: 0cm"><a name="actions-tab"></a><a name="actions-repo-tab-count"></a>
+		<a href="/rmitStockIT/stockIT/actions">Actions </a>
+		</p>
+		<li><p style="margin-bottom: 0cm"><a name="projects-tab"></a><a name="projects-repo-tab-count"></a>
+		<a href="/rmitStockIT/stockIT/projects">Projects 0 </a>
+		</p>
+		<li><p style="margin-bottom: 0cm"><a name="wiki-tab"></a><a name="wiki-repo-tab-count"></a>
+		<a href="/rmitStockIT/stockIT/wiki">Wiki </a>
+		</p>
+		<li><p style="margin-bottom: 0cm"><a name="security-tab"></a><a href="/rmitStockIT/stockIT/security">Security
+		</a>
+		</p>
+		<li><p style="margin-bottom: 0cm"><a name="insights-tab"></a><a name="insights-repo-tab-count"></a>
+		<a href="/rmitStockIT/stockIT/pulse">Insights </a>
+		</p>
+		<li><p><a name="settings-tab"></a><a name="settings-repo-tab-count"></a>
+		<a href="/rmitStockIT/stockIT/settings">Settings </a>
+		</p>
+	</ul>
+	<p>More 
+	</p>
+	<ul>
+		<li><p style="margin-bottom: 0cm"><a href="/rmitStockIT/stockIT">Code
+		</a>
+		</p>
+		<li><p style="margin-bottom: 0cm"><a href="/rmitStockIT/stockIT/pulls">Pull
+		requests </a>
+		</p>
+		<li><p style="margin-bottom: 0cm"><a href="/rmitStockIT/stockIT/actions">Actions
+		</a>
+		</p>
+		<li><p style="margin-bottom: 0cm"><a href="/rmitStockIT/stockIT/projects">Projects
+		</a>
+		</p>
+		<li><p style="margin-bottom: 0cm"><a href="/rmitStockIT/stockIT/wiki">Wiki
+		</a>
+		</p>
+		<li><p style="margin-bottom: 0cm"><a href="/rmitStockIT/stockIT/security">Security
+		</a>
+		</p>
+		<li><p style="margin-bottom: 0cm"><a href="/rmitStockIT/stockIT/pulse">Insights
+		</a>
+		</p>
+		<li><p><a href="/rmitStockIT/stockIT/settings">Settings </a>
+		</p>
+	</ul>
+</div>
+<div id="repo-content-pjax-container" dir="ltr"><p style="margin-bottom: 0cm">
+	<a href="https://github.dev/">Open in github.dev</a> 
+	</p>
+	<p style="margin-bottom: 0cm"><a href="/rmitStockIT/stockIT/blob/b35748e9a4a18a73dee9bf625b504afcc9f8d10e/Assignment3/GithubAndTools/AuditTrailComments.docx">Permalink</a>
+		</p>
+	<p style="margin-bottom: 0cm">main 
+	</p>
+	<p style="margin-bottom: 0cm">Switch branches/tags 
+	</p>
+	<p style="margin-bottom: 0cm">Branches Tags 
+	</p>
+	<div id="ref-list-branches" dir="ltr"><p>Could not load branches</p>
+		<p>Create branch: {{ refName }} from &lsquo;main&rsquo; 
+		</p>
+		<p style="margin-bottom: 0cm">Loading 
+		</p>
+		<p style="margin-bottom: 0cm"><a href="https://github.com/rmitStockIT/stockIT/blob/%7B%7B%20urlEncodedRefName%20%7D%7D/Assignment3/GithubAndTools/AuditTrailComments.docx">{{
+		refName }} default </a><a href="/rmitStockIT/stockIT/branches">View
+		all branches</a> 
+		</p>
+	</div>
+	<div id="tags-menu" dir="ltr"><p style="margin-bottom: 0cm">Could
+		not load tags</p>
+		<p style="margin-bottom: 0cm">Nothing to show</p>
+		<p style="margin-bottom: 0cm"><a href="https://github.com/rmitStockIT/stockIT/blob/%7B%7B%20urlEncodedRefName%20%7D%7D/Assignment3/GithubAndTools/AuditTrailComments.docx">{{
+		refName }} default </a>
+		</p>
+		<p style="margin-bottom: 0cm">Loading 
+		</p>
+		<p style="margin-bottom: 0cm"><a href="/rmitStockIT/stockIT/tags">View
+		all tags</a> 
+		</p>
+	</div>
+	<h2 class="western"><a name="blob-path"></a><a href="/rmitStockIT/stockIT">stockIT</a>/<a href="/rmitStockIT/stockIT/tree/main/Assignment3">Assignment3</a>/<a href="/rmitStockIT/stockIT/tree/main/Assignment3/GithubAndTools">GithubAndTools</a>/<strong>AuditTrailComments.docx</strong>
+		</h2>
+	<p><a href="/rmitStockIT/stockIT/find/main">Go to file </a>
+	</p>
+	<ul>
+		<li><p style="margin-bottom: 0cm"><a href="/rmitStockIT/stockIT/find/main">Go
+		to file T </a>
+		</p>
+		<li><p style="margin-bottom: 0cm">Go to line L 
+		</p>
+		<li><p style="margin-bottom: 0cm">Copy path 
+		</p>
+		<li><p>Copy permalink 
+		</p>
+	</ul>
+	<p style="margin-bottom: 0cm">&nbsp;</p>
+	<p style="margin-bottom: 0cm">&nbsp;</p>
+	<p style="margin-bottom: 0cm">Cannot retrieve contributors at this
+	time 
+	</p>
+	<p style="margin-bottom: 0cm">5.18 KB 
+	</p>
+	<p><a name="raw-url"></a><a href="/rmitStockIT/stockIT/raw/main/Assignment3/GithubAndTools/AuditTrailComments.docx">Download
+	</a>
+	</p>
+	<ul>
+		<li><p style="margin-bottom: 0cm"><a href="https://desktop.github.com/">Open
+		with Desktop </a>
+		</p>
+		<li><p><a href="/rmitStockIT/stockIT/raw/main/Assignment3/GithubAndTools/AuditTrailComments.docx">Download
+		</a>
+		</p>
+	</ul>
+	<p><a href="/rmitStockIT/stockIT/blob/main/Assignment3/GithubAndTools/AuditTrailComments.docx%3Fraw=true">View
+	raw</a> 
+	</p>
+	<form action="../Task%203">
+		<p><input type="text"  size="20" style="width: 4.45cm; height: 0.72cm">
+		Go 
+		</p>
+	</form>
+</div>
+<ul>
+	<li><p style="margin-bottom: 0cm">&copy; 2021 GitHub, Inc. 
+	</p>
+	<li><p style="margin-bottom: 0cm"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service">Terms</a>
+		</p>
+	<li><p style="margin-bottom: 0cm"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement">Privacy</a>
+		</p>
+	<li><p style="margin-bottom: 0cm"><a href="https://github.com/security">Security</a>
+		</p>
+	<li><p style="margin-bottom: 0cm"><a href="https://www.githubstatus.com/">Status</a>
+		</p>
+	<li><p><a href="https://docs.github.com/">Docs</a> 
+	</p>
+</ul>
+<ul>
+	<li><p style="margin-bottom: 0cm">Contact GitHub 
+	</p>
+	<li><p style="margin-bottom: 0cm"><a href="https://github.com/pricing">Pricing</a>
+		</p>
+	<li><p style="margin-bottom: 0cm"><a href="https://docs.github.com/">API</a>
+		</p>
+	<li><p style="margin-bottom: 0cm"><a href="https://services.github.com/">Training</a>
+		</p>
+	<li><p style="margin-bottom: 0cm"><a href="https://github.blog/">Blog</a>
+		</p>
+	<li><p><a href="https://github.com/about">About</a> 
+	</p>
+</ul>
+<div id="ajax-error-message" dir="ltr"><p>You can&rsquo;t perform
+	that action at this time. 
+	</p>
+</div>
+<p style="margin-bottom: 0cm">You signed in with another tab or
+window. <a href="../Task%203">Reload</a> to refresh your session. You
+signed out in another tab or window. <a href="../Task%203">Reload</a>
+to refresh your session. 
+</p>
+</body>
+</html>
