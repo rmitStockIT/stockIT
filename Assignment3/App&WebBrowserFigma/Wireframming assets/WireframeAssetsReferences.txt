@@ -17,3 +17,6 @@ ref# https://www.canva.com/design/DAEt0P5e4lE/N8iSn9Y2s3f8G_XZuTwr6A/edit#
 
 Question mark graphic
 https://spark.adobe.com/sp/design/post/urn:aaid:sc:AP:fa081a9e-1432-4dba-9319-cd91b4636377?workflow=blank&fallbackThresh=default&trigger=CreateProjectMenu&sizeCategory=custom
+
+Inventory Lifecycle graphic
+https://spark.adobe.com/sp/design/post/urn:aaid:sc:AP:054d13e0-b188-48c6-878a-ac2a99d068d1?workflow=blank&fallbackThresh=default&trigger=CreateProjectMenu&sizeCategory=custom&aspectId=Square
